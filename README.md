@@ -5,4 +5,4 @@
  
 __By: Faris Alenezy, Andre Loukrezis & Elise Vincent__
 
-[Link to the Final Report](https://github.com/fairfield-university-ba545/project2-fae/blob/master/Final_Markdown.ipynb)
+[Link to the Final Report](https://github.com/aloukrezis01/online-shopping-analysis/blob/master/Final_Markdown.ipynb)
