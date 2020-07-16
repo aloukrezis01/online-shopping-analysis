@@ -2,7 +2,6 @@
 """
 
 
-@author: Faris Alenezy
 """
 
 
