@@ -1,6 +1,5 @@
 
-## BA545 COMPETITION #2
-### Online Shoppers Purchasing Intentions
+## BA545: Online Shoppers Purchasing Intentions
 ### Spring 2020
  
 __By: Faris Alenezy, Andre Loukrezis & Elise Vincent__
